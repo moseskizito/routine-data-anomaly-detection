@@ -1,0 +1,9 @@
+facility_id,month,value,anomaly,reason
+F0000,16,410,extra_digit,+17.2 MADs from this facility's usual level; 8.2x above the same month last year
+F0000,28,301,spike,+11.7 MADs from this facility's usual level
+F0000,43,3,drop,13.8x below the same month last year
+F0000,46,410,spike,+17.2 MADs from this facility's usual level; 5.6x above the same month last year
+F0001,15,49,flatline,same value repeated 3 months in a row
+F0001,16,49,flatline,same value repeated 4 months in a row
+F0001,30,6,drop,-3.6 MADs from this facility's usual level; 3.9x below the same month last year
+F0003,47,372,extra_digit,+17.8 MADs from this facility's usual level; 9.1x above the same month last year

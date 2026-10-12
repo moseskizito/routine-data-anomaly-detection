@@ -1,0 +1,7 @@
+method,precision,recall,f1,flagged,recall_spike,recall_extra_digit,recall_drop,recall_flatline
+Z-score (mean/SD),0.981,0.311,0.472,103,0.6,0.983,0.138,0.019
+Modified z (median/MAD),0.961,0.378,0.543,128,0.964,1.0,0.155,0.019
+IQR fences,0.86,0.452,0.593,171,0.964,1.0,0.569,0.019
+STL residual,0.278,0.446,0.343,521,0.709,0.707,0.776,0.13
+Isolation Forest,0.851,0.754,0.799,288,0.945,1.0,0.914,0.532
+Rule ensemble,0.705,0.877,0.782,404,0.982,1.0,0.983,0.753
